@@ -3,6 +3,8 @@ Lesson3:代入
 
 代入とは、変数の値を設定する。
 
+![github assigment](/images/assigment.png)
+
 例：　x＝３
 
 代入を試してみましょう！
