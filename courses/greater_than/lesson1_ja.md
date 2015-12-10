@@ -7,7 +7,7 @@ lesson 1
 
 答え：そうです。
 
-![github not_equal](/images/not_equal.png)
+![github greater_than](/images/greater_than.png)
 
 6つスターが２つスターより多いかという判断したい時、大なり演算使います。
 
