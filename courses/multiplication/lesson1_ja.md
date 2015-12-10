@@ -5,7 +5,7 @@ lesson１
 
 １行でリンゴ５つが置いて、３行が置いています。あわせてリンゴいくつがありますか？
 
-![github apple_times](/images/apple_times.png)
+![github apples_times](/images/apples_times.png)
 
 １行でリンゴ５つが置いて、３行が置いています。あわせてリンゴ15個(3 x 5 = 15)があります。
 
