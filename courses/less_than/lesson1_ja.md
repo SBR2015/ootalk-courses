@@ -6,7 +6,7 @@ lesson 1
 
 答え：そうです。
 
-![github not_equal](/images/not_equal.png)
+![github less_than](/images/less_than.png)
 
 3つリンゴが4つリンゴより少ないかという判断したい時、小なり演算使います。
 
